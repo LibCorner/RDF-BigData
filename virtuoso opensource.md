@@ -7,10 +7,15 @@
 
 
 ## 处理Freebase
-1. [Virtuoso Freebase Setup: https://sourceforge.net/projects/virtuoso/files/][2]
+1. [Virtuoso Freebase Setup: https://github.com/sameersingh/nlp_serde/wiki/Virtuoso-Freebase-Setup][2]
 2. Load Freebase Dump into Virtuoso (SPARQL database): [http://sivareddy.in/load-freebase-dump-into-virtuoso-sparql-sql][3]
-
+3. [https://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VirtBulkRDFLoader][4]
+4. overflowstack:Freebase - how to use the freebase-rdf-latest?[http://stackoverflow.com/questions/28285043/freebase-how-to-use-the-freebase-rdf-latest][5]
+5. freebase2rdf:[https://github.com/castagna/freebase2rdf][6]
 
 [1] https://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VOSDownload
-[2] https://sourceforge.net/projects/virtuoso/files/
+[2] https://github.com/sameersingh/nlp_serde/wiki/Virtuoso-Freebase-Setup
 [3] http://sivareddy.in/load-freebase-dump-into-virtuoso-sparql-sql
+[4] https://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VirtBulkRDFLoader
+[5] http://stackoverflow.com/questions/28285043/freebase-how-to-use-the-freebase-rdf-latest
+[6] https://github.com/castagna/freebase2rdf
